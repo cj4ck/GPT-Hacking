@@ -35,5 +35,6 @@ To begin experimenting with custom prompts, follow these steps:
 
 What I personally love to do is to have a few init prompts to set up clear rules for the model. After that, I inject another prompt, layering them like this to get the best results.
 Explore various techniques for crafting effective custom prompts to achieve desired responses. Learn how to structure prompts, use context effectively, and experiment with different styles to get the most accurate and relevant outputs.
-
 Happy Prompt Hacking!
+---
+<img src="https://github.com/cj4ck/GPT-Hacking/blob/main/hack-gpt.gif" alt="example">
