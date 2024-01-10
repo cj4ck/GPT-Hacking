@@ -4,6 +4,7 @@ Welcome to the ChatGPT Custom Prompt Hacker repository!
 Learn how to harness the power of ChatGPT 10x faster with these open-source solutions.
 In this project, we delve into the fascinating world of custom prompts to enhance and tailor your interactions with OpenAI's ChatGPT.
 By understanding how to craft effective prompts, you can optimize responses and get the most out of this powerful language model.
+
 ---
 ## Table of Contents
 - [Introduction](#introduction)
